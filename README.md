@@ -1,2 +1,1 @@
-# bd
-#n
+# https://ronyinfu.github.io/bd/
